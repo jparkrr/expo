@@ -11,6 +11,7 @@
 ### 🐛 Bug fixes
 
 - Fix bundle splitting and async routes. ([#25901](https://github.com/expo/expo/pull/25901) by [@EvanBacon](https://github.com/EvanBacon))
+- Unpin minor upgrades for `@babel/generator` to `^7.20.5`. ([#25872](https://github.com/expo/expo/pull/25872) by [@kitten](https://github.com/kitten))
 
 ### 💡 Others
 
